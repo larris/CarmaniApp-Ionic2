@@ -23,6 +23,10 @@ export class MyVihicles {
             {"carName":"Hundai",
                 "carType" : "I30",
                 "year" : "2012"
+            },
+            {"carName":"Opel",
+                "carType" : "Corsa",
+                "year" : "2012"
             }
         ]
     }
