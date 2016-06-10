@@ -15,20 +15,19 @@ export class MyVihicles {
   }
 
  loadVihicles(){
+
    return this.vihicleService.load().then(data =>{this.vihicles=data;});
  }
 
- getitems(searchbar){
+ searchitems(searchbar){
   let q:any;
-  this.loadVihicles();
-
+  
   q = searchbar.value;
+    console.log('test getitems value ' + q );
 
   if (q.trim() == '') {
       return;
     }
-
-
  }
 
 }
