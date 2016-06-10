@@ -1,14 +1,25 @@
 <ion-navbar *navbar>
-  <ion-title >Τα οχήματα μου</ion-title>
+    <ion-title >Τα οχήματα μου</ion-title>
 </ion-navbar>
 
 <ion-content padding class="myvihicles">
-  <h2>Τα οχήματα μου</h2>
- <ion-list>
-      <ion-item>
-          <ion-thumbnail item-left>
-          <img [src]="http://placehold.it/60x60">
-          </ion-thumbnail>  
-      </ion-item>
-  </ion-list>
+    <h2>Τα οχήματα μου</h2>
+    <ion-list>
+
+        <ion-item *ngFor=" let car of vihicles">
+            <!--  <ion-avatar item-left>
+                    <img src="http://placehold.it/80x80">
+                </ion-avatar>
+              -->
+            <ion-card>
+                <img src="http://placehold.it/150x150">
+                <ion-card-content>
+                      <ion-card-title>{{car.constructor}} </ion-card-title>
+                    <p>{{car.model_series}}</p>  
+                    <p>{{car.BODY_TYPE}}</p>
+                    <p>{{car.FUEL}}</p>
+                </ion-card-content>
+            </ion-card>
+        </ion-item>
+    </ion-list>
 </ion-content>

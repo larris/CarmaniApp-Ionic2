@@ -1,0 +1,872 @@
+{
+"cars":[
+{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316iTi"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316iTi"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A7\u03AC\u03C4\u03C3\u03BC\u03C0\u03B1\u03BA 3\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316iTi"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316ie"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316ie"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (1999 - 2001)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (1999 - 2001)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2006 - 2008)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2006 - 2008)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2006 - 2008)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2006 - 2008)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2006 - 2008)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i 122PS"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2006 - 2008)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i 122PS"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2006 - 2008)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i 122PS"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2006 - 2008)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i 122PS"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E90) (2009 - 2011)"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F30) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03B5\u03BD\u03C4\u03AC\u03BD"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (1999 - 2001)"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E91) (2009 - 2012)"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E91) (2009 - 2012)"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E91) (2009 - 2012)"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E91) (2009 - 2012)"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E91) (2009 - 2012)"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (F31) (2012 - )"
+,"BODY_TYPE":"\u03A3\u03C4\u03AD\u03B9\u03C3\u03BF\u03BD \u0392\u03AC\u03B3\u03BA\u03BF\u03BD 5\u0398\u03C5\u03C1\u03BF"
+,"FUEL":"\u03A0\u03B5\u03C4\u03C1\u03AD\u03BB\u03B1\u03B9\u03BF"
+,"model":"316d Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E36) (1991 - 1998)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (1999 - 2001)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E46) (2002 - 2006)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316Ci"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E92) (2006 - 2009)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E92) (2006 - 2009)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E92) (2006 - 2009)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E92) (2006 - 2009)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E92) (2010 - 2013)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E92) (2010 - 2013)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E92) (2010 - 2013)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E92) (2010 - 2013)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+,{
+"constructor":"BMW"
+,"model_series":"3 (E92) (2010 - 2013)"
+,"BODY_TYPE":"\u039A\u03BF\u03C5\u03C0\u03AD\/\u03A6\u03AC\u03C3\u03C4\u03BC\u03C0\u03B1\u03BA"
+,"FUEL":"\u0392\u03B5\u03BD\u03B6\u03AF\u03BD\u03B7 \u0391\u03BC\u03CC\u03BB\u03C5\u03B2\u03B4\u03B7"
+,"model":"316i Auto"
+}
+]
+}

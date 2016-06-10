@@ -1,37 +1,18 @@
 import {Page, NavController} from 'ionic-angular';
-
+import {MyVihiclesService} from '../../providers/my-vihicles-service/my-vihicles-service';
 
 @Page({
   templateUrl: 'build/pages/Tab_myvihicles/myvihicles.html',
+  providers:[MyVihiclesService]
 })
 export class MyVihicles {
-    private results;
-  constructor(nav: NavController) {
-    this.results = this.getResults();
+  public vihicles: any;
+  constructor(nav: NavController, public vihicleService: MyVihiclesService) {
+     this.loadVihicles();
   }
 
-    getResults(){
-        return [
-            {"carName":"Nissan",
-                "carType" : "Pulsar",
-                "year" : "2015"
-            },
-            {"carName":"Opel",
-                "carType" : "Astra",
-                "year" : "2005"
-            },
-            {"carName":"Hundai",
-                "carType" : "I30",
-                "year" : "2012"
-            },
-            {"carName":"Opel",
-                "carType" : "Corsa",
-                "year" : "2012"
-            },
-            {"carName":"Opel",
-                "carType" : "Corsa",
-                "year" : "2012"
-            }
-        ]
-    }
+ loadVihicles(){
+   this.vihicleService.load().then(data =>{this.vihicles=data;});
+ }
+
 }
