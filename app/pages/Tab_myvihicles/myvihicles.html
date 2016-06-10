@@ -3,9 +3,10 @@
 </ion-navbar>
 
 <ion-content padding class="myvihicles">
-    <h2>Τα οχήματα μου</h2>
+ <ion-searchbar [(ngModel)]="keyword"
+                (input) ="getitems($event)" >
+ </ion-searchbar>
     <ion-list>
-
         <ion-item *ngFor=" let car of vihicles">
             <!--  <ion-avatar item-left>
                     <img src="http://placehold.it/80x80">
@@ -14,8 +15,9 @@
             <ion-card>
                 <img src="http://placehold.it/150x150">
                 <ion-card-content>
-                      <ion-card-title>{{car.constructor}} </ion-card-title>
-                    <p>{{car.model_series}}</p>  
+                    <ion-card-title>{{car.constructor}}
+                    </ion-card-title>
+                    <p>{{car.model_series}}</p>
                     <p>{{car.BODY_TYPE}}</p>
                     <p>{{car.FUEL}}</p>
                 </ion-card-content>

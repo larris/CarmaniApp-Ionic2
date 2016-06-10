@@ -7,12 +7,28 @@ import {MyVihiclesService} from '../../providers/my-vihicles-service/my-vihicles
 })
 export class MyVihicles {
   public vihicles: any;
+  public keyword: String;
+
   constructor(nav: NavController, public vihicleService: MyVihiclesService) {
+     this.keyword = '';
      this.loadVihicles();
   }
 
  loadVihicles(){
-   this.vihicleService.load().then(data =>{this.vihicles=data;});
+   return this.vihicleService.load().then(data =>{this.vihicles=data;});
+ }
+
+ getitems(searchbar){
+  let q:any;
+  this.loadVihicles();
+
+  q = searchbar.value;
+
+  if (q.trim() == '') {
+      return;
+    }
+
+
  }
 
 }
